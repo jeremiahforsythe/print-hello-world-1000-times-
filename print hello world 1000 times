@@ -1,0 +1,22 @@
+#include <iostream>
+
+using namespace std;
+
+
+int main()
+
+{
+	// lets print "hello world" a 1000 times too the console 
+
+	for (int counter = 0; counter < 100; counter++) {
+
+
+
+
+
+		cout << "Hello world " << endl;
+
+	}
+	return 0;
+}
+	
